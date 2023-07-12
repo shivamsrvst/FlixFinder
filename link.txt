@@ -1,0 +1,5 @@
+90f32b816806867cde4487813a40cf2e
+
+https://api.themoviedb.org/3/movie/now_playing?api_key=90f32b816806867cde4487813a40cf2e
+
+"https://flowbite.com/docs/images/logo.svg"
